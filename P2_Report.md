@@ -31,7 +31,7 @@ I have uploaded my files to github to link to the project repository:
 
 1.1 The [Traffic_Sign_Classifier.ipynb](https://github.com/zpy016/P2_Traffic_Sign_Classifier_CarND/blob/master/Traffic_Sign_Classifier.ipynb) notebook file with all questions answered and all code cells executed and displaying output. Here is a link to my [project code].
 
-1.2 A HTML export of the project notebook with the name [Traffic_Sign_Classifier.html](https://github.com/zpy016/P2_Traffic_Sign_Classifier_CarND/blob/master/Traffic_Sign_Classifier.html).
+1.2 A PDF export of the project notebook with the name [Traffic_Sign_Classifier.html](https://github.com/zpy016/P2_Traffic_Sign_Classifier_CarND/blob/master/Report.pdf).
 
 1.3 [Additional datasets or images](https://github.com/zpy016/P2_Traffic_Sign_Classifier_CarND/tree/master/Test_data_jpg) used for the project that are not from the German Traffic Sign Dataset. 
 
